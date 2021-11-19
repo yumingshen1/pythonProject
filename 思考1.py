@@ -32,3 +32,4 @@ for one in studentInfo:
     # print('{:20} :  {:02}'.format(name, age))
     # print(f'{name:20} :  {age:02}')
 print('~~~~~~~~~~~~~~')
+print("ccccccccc")
